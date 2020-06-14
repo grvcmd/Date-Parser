@@ -1,2 +1,4 @@
-# Homework2_CodingProblem2
-hi
+# Date Convertor 
+
+Ken Valverde's codebase for Homework 2's Coding Problem.
+
