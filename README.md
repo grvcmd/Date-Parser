@@ -1,6 +1,3 @@
-# Date Format Convertor 
-Ken Valverde's codebase for Homework 2's Coding Problem.
-
 # Who
 coded by Ken Valverde as his Homework 2 submission for CIS 2348.
 
