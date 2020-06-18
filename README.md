@@ -1,6 +1,6 @@
 # Date-Parser
 
-# What
+## What
 Reads inputDates.txt files to find, parse, and extract dates in (January 1, 2020) format to output as (1/1/2020) format
 in a brand new parsedDates.txt file.
 
